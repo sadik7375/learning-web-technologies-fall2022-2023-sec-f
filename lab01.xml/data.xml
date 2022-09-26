@@ -5,30 +5,34 @@
 <name>john Doe</name>
 <address>
 <house>H# 38, R#3,</house>
-<house_address>Banani, Dhaka</house>
+<house_address>Banani, Dhaka</house_address>
 
 
  </address>
 <departmet>sales</departmet>
 <salary>$20000</salary>
-<data>
+</data>
+
 <data id="2">
 <id>2</id>
 <name>Mark zuckerberg</name>
-<address><house>Flat# A/1, H# 20, R#18</house>
-<house_address> Mirpur, Dhaka</house></address>
+<address>
+<house>Flat# A/1, H# 20, R#18</house>
+<house_address> Mirpur, Dhaka</house_address>
+</address>
 <departmet>Accounts</departmet>
 <salary>$12000</salary>
-<data>
+</data>
 
 <data id="3">
 <id>3</id>
 <name>Ala voski</name>
 <address><house>Flat# A/1, H# 20, R#18</house>
-<house_address> Mirpur, Dhaka</house_address>  </address>
+<house_address> Mirpur, Dhaka</house_address> 
+ </address>
 <departmet>Human Resource</departmet>
 <salary>$30000</salary>
-<data>
+</data>
 
 
 
