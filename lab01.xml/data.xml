@@ -4,7 +4,8 @@
 <id>1</id>
 <name>john Doe</name>
 <address>
-<house>H# 38, R#3,</house>
+<house>H# 38, </house>
+<road>R#3</road>
 <house_address>Banani, Dhaka</house_address>
 
 
@@ -17,7 +18,8 @@
 <id>2</id>
 <name>Mark zuckerberg</name>
 <address>
-<house>Flat# A/1, H# 20, R#18</house>
+<house>Flat# A/1, H# 20 </house>
+<road>R#18</road>
 <house_address> Mirpur, Dhaka</house_address>
 </address>
 <departmet>Accounts</departmet>
@@ -27,7 +29,8 @@
 <data id="3">
 <id>3</id>
 <name>Ala voski</name>
-<address><house>Flat# A/1, H# 20, R#18</house>
+<address><house>Flat# A/1, H# 20 </house>
+<road>R#18</road>
 <house_address> Mirpur, Dhaka</house_address> 
  </address>
 <departmet>Human Resource</departmet>
